@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "self:">
+   </FileRef>
+   <FileRef
+      location = "group:SeedData.swift">
+   </FileRef>
+   <FileRef
+      location = "group:RootView.swift">
+   </FileRef>
+   <FileRef
+      location = "group:OnboardingView.swift">
+   </FileRef>
+   <FileRef
+      location = "group:PlacementTestView.swift">
+   </FileRef>
+   <FileRef
+      location = "group:MainTabView.swift">
+   </FileRef>
+   <FileRef
+      location = "group:VocabularyView.swift">
+   </FileRef>
+</Workspace>
