@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import Foundation
 
 /// Yerel içerik. UUID'ler SABİT — aksi halde her açılışta kelime/ilerleme kaybolur.

@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import SwiftUI
 
 /// Pratik ana ekranı: ÖNCE seviye seçilir, sonra o seviyenin içeriği gelir.

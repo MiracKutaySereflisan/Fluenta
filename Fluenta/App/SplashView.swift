@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import SwiftUI
 
 /// Açılış ekranı: yumuşak giriş, nefes alan halka, sonra otomatik geçiş.

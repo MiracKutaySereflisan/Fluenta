@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import Foundation
 
 /// Bir CEFR seviyesi 5 aşamaya bölünür (örn. B1.1 → B1.5).
