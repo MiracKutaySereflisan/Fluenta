@@ -233,7 +233,7 @@ struct QuizView: View {
     }
 }
 
-// MARK: - Yazma (yerel: süre + kelime sayacı; AI analizi Faz 2)
+// MARK: - Yazma (yerel: süre + kelime sayacı; otomatik değerlendirme sonraki sürümde)
 
 struct WritingDetailView: View {
     @EnvironmentObject var appState: AppState
